@@ -1,3 +1,4 @@
 def using_while
   force = 6
-  while force 
+  while force < 10 
+  
